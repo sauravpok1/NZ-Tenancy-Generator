@@ -1,0 +1,8 @@
+RESIDENTIAL TENANCY AGREEMENT
+This agreement is made between the Landlord and the Tenant as per the Residential Tenancies Act 1986.
+Landlord: [Placeholder]
+Tenant: {0}
+Property Address: {1}
+Rent: ${2} {3}
+Start Date: {4:dd/MM/yyyy}
+Terms and conditions as per tenancy.govt.nz standards.
