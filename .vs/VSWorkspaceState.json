@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\TenancyAgreementGenerator.Api",
+    "\\Backend\\TenancyAgreementGenerator.Api\\TenancyAgreementGenerator.Api",
+    "\\Frontend",
+    "\\Frontend\\TenancyAgreementGenerator.Web",
+    "\\Frontend\\TenancyAgreementGenerator.Web\\TenancyAgreementGenerator.Web",
+    "\\Frontend\\TenancyAgreementGenerator.Web\\TenancyAgreementGenerator.Web\\src",
+    "\\Frontend\\TenancyAgreementGenerator.Web\\TenancyAgreementGenerator.Web\\src\\app",
+    "\\Frontend\\TenancyAgreementGenerator.Web\\TenancyAgreementGenerator.Web\\src\\app\\services"
+  ],
+  "SelectedNode": "\\Frontend\\TenancyAgreementGenerator.Web\\TenancyAgreementGenerator.Web\\package.json",
+  "PreviewInSolutionExplorer": false
+}
