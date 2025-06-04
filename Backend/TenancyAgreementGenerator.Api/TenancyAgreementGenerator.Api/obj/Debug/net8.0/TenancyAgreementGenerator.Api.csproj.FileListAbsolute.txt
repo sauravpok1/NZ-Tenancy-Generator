@@ -36,6 +36,7 @@ D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAg
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\TenancyAgreementGenerator.Api.csproj.CoreCompileInputs.cache
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\TenancyAgreementGenerator.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\TenancyAgreementGenerator.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\TenancyAgreementGenerator.Api.sourcelink.json
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\Own Peoject\Tenancy Generator\Backend\TenancyAgreementGenerator.Api\TenancyAgreementGenerator.Api\obj\Debug\net8.0\staticwebassets\msbuild.TenancyAgreementGenerator.Api.Microsoft.AspNetCore.StaticWebAssets.props

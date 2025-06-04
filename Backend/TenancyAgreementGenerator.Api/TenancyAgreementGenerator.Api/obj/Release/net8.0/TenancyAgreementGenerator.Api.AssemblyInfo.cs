@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TenancyAgreementGenerator.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a06247e1306e99b0bfaef9e650d93cb69675f5c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TenancyAgreementGenerator.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TenancyAgreementGenerator.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
