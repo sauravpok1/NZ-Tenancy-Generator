@@ -12,7 +12,13 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
         builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-}); 
+});
+
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNameCaseInsensitive = true;
+    });
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

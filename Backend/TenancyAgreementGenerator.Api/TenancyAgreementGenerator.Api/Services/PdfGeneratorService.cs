@@ -16,6 +16,7 @@ public class PdfGeneratorService : IPdfGeneratorService // Implement the interfa
 
     public byte[] GeneratePdf(TenancyAgreement model)
     {
+        
         string template = File.Exists(_templatePath)
             ? File.ReadAllText(_templatePath)
             : @"{
@@ -28,7 +29,7 @@ public class PdfGeneratorService : IPdfGeneratorService // Implement the interfa
                 Start Date: {4:dd/MM/yyyy}
                 Terms and conditions as per tenancy.govt.nz standards.
                 """;
-
+        Console.WriteLine(template,"already 2");
         string content = string.Format(
             template,
             model.TenantName,
