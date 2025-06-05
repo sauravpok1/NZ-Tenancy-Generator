@@ -11,6 +11,6 @@
     "\\Shared\\Templates",
     "\\TenancyAgreementGenerator"
   ],
-  "SelectedNode": "\\Backend\\TenancyAgreementGenerator.Api\\TenancyAgreementGenerator.Api\\Properties",
+  "SelectedNode": "\\Backend\\TenancyAgreementGenerator.Api\\TenancyAgreementGenerator.Api\\Models\\TenancyAgreement.cs",
   "PreviewInSolutionExplorer": false
 }
